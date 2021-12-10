@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://tarique313.github.io/search-monster",
   "predeploy": "yarn build",
-  "deploy": "gh-pages -d build"
+  "deploy": "gh-pages -d build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
